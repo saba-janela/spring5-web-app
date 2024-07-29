@@ -1,2 +1,1 @@
-# Spring Framework 5: Beginner to Guru
-## Created by Jonh Thompson
+# Simple Spring5 Web Application
